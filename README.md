@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Camilo Valencia and I'm a Full Stack web developer, from Cali, Colombia 🇨🇴</p>
+<p align="center">My name is Camilo Valencia and I'm a Full Stack web developer, from Cali, Colombia :colombia:</p>
 
 ###
 
