@@ -12,8 +12,6 @@
 
 <p align="center">✨ Passionate about coding and videogames<br>🎯 Goals: Become a top-tier developer<br> 🎵 Bedroom Guitar player </p>
 
-###
-
 <br clear="both">
 
 <h2 align="center">My coding stack</h2>
