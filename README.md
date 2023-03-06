@@ -6,17 +6,17 @@
 
 ###
 
-<h2 align="center">About me</h2>
+
 
 ###
-
+<h2 align="center">About me</h2>
 <p align="center">✨ Passionate about coding and videogames<br>🎯 Goals: Become a top-tier developer<br> 🎵 Bedroom Guitar player </p>
 
 
-<h2 align="center">My coding stack</h2>
+
 
 ###
-
+<h2 align="center">My coding stack</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
