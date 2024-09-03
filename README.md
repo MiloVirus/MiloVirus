@@ -10,7 +10,7 @@
 
 ###
 <h2 align="center">About me</h2>
-<p align="center">✨ Passionate about coding and videogames<br>🎯 Goals: Become a top-tier developer<br> 🎵 Bedroom Guitar player </p>
+<p align="center">✨ Passionate about coding and videogames<br>🎯 Goals: Become a top-tier developer<br> 🤿 Scuba Diver </p>
 
 
 
